@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(miaimmagine.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.content {
+  text-align: center;
+}
+
+.timer-container {
+  margin-bottom: 20px;
+}
+
+#countdown {
+  font-size: 60px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+p {
+  font-size: 24px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
